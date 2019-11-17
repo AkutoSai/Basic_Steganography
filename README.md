@@ -1,4 +1,4 @@
-# Basic_Steganography
+# Basic Steganography
 Hide/Unhide "Text in Image" or "Image in Image" 
 
 There are 2 seprate files to Encode/Decode:
