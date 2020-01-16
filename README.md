@@ -7,7 +7,7 @@ There are 2 seprate files to Encode/Decode:
 
 First install requirements.
 Then goto Scripts folder make the file executable with "chmod +x".
-Then open terminal and execute the following script with "/file.py" command.
+Then open terminal and execute the following script with "python file.py" command.
 
 
 # This project is still in PROGRESS.....:)
